@@ -2,7 +2,7 @@
 ## _ Python Projects _ 1
 
 
-I am preparing different projects using the Django web tool, but 
+I am preparing different projects using the Python, but 
 I have some mistakes and mistakes in these projects. Good projects 
 will come as soon as possible.
 
