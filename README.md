@@ -7,7 +7,7 @@ I have some mistakes and mistakes in these projects. Good projects
 will come as soon as possible.
 
 - Python
-- ✨Django ✨
+- ✨ Django ✨
 - Html-css-js-php-sql
 
 ## Python Project Ideas
